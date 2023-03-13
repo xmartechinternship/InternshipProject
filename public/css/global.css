@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --body-h4: Montserrat;
+  --font-comfortaa: Comfortaa;
+
+  /* font sizes */
+  --font-size-mini: 15px;
+  --body-h4-size: 24px;
+  --font-size-6xl: 25px;
+  --font-size-xl: 20px;
+  --font-size-9xl-4: 28.4px;
+  --font-size-3xs: 10px;
+
+  /* Colors */
+  --color-black: #000;
+  --color-gray-100: rgba(0, 0, 0, 0.5);
+  --color-gray-200: rgba(0, 0, 0, 0.8);
+  --color-white: #fff;
+  --rustic: rgba(210, 82, 10, 0.84);
+  --color-lightsalmon: #f1a478;
+  --color-mediumvioletred: #cc2f71;
+  --color-silver: #c4c4c4;
+  --color-gainsboro: #d9d9d9;
+
+  /* border radiuses */
+  --br-7xs: 6px;
+  --br-5xs: 8px;
+}
